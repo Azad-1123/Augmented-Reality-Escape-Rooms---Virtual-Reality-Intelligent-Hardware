@@ -18,6 +18,7 @@ Highlights
 🏆 Game Logic: Set up a simple game manager to handle winning conditions.
 
 Key Insights
+
 🛠️ Utilizing AR Foundation: By leveraging AR Foundation, developers can focus on creating immersive experiences without getting bogged down in low-level coding. This framework provides built-in functionalities, making AR development more accessible.
 
 📦 Importance of Sample Scenes: Starting with sample scenes speeds up the development process, allowing creators to test and iterate on their ideas quickly. By modifying existing templates, developers can explore various AR functionalities effectively.
