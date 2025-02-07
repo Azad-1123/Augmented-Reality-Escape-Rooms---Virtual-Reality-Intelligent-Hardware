@@ -2,12 +2,19 @@
 Learn to set up an AR escape room using Unity’s AR Foundation, including object placement and basic puzzle elements for an interactive experience.
 
 Highlights
+
 🛠️ AR Foundation Setup: Utilize Unity’s AR Foundation for creating augmented reality experiences.
+
 📦 Sample Scenes: Start with AR Foundation samples to simplify development.
+
 🏗️ Modular Assets: Use Sci-Fi styled modular packs to design your escape room.
+
 📱 Building for Mobile: Switch build settings to Android or iOS for mobile compatibility.
+
 🔄 Prefab Management: Create and organize prefabs for efficient scene management.
+
 🕹️ Interactive Elements: Implement UI buttons for user interaction with shapes.
+
 🏆 Game Logic: Set up a simple game manager to handle winning conditions.
 
 Key Insights
